@@ -2,7 +2,7 @@
 
 <center>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=QuanMCPC&theme=dark&show_icons=true&icon_color=ff0000" alt="Github Status" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuanMCPC&theme=dark&langs_count=10&layout=compact" alt="Most Used Languages" />
+    <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuanMCPC&theme=dark&langs_count=10&layout=compact" alt="Most Used Languages" /> -->
 </center>
 <br>
 
