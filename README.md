@@ -1,5 +1,13 @@
 # QuanMCPC: A small web developer, a student and a gamer
 
+<center>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=QuanMCPC&theme=dark&show_icons=true&icon_color=ff0000" alt="Github Status" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuanMCPC&theme=dark&langs_count=10&layout=compact" alt="Most Used Languages" />
+</center>
+<br>
+
+> Credit: Data provided from [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
 Hello there, I'm a student, a small web developer and a gamer and Ha Long, VietNam is where I live.
 
 Welcome to my GitHub page, where I host my own website, my JavaScript project and more. I usually do all of the coding by my self because all of my friend can't really code.
