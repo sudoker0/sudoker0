@@ -21,4 +21,6 @@ Well, that's all I have to say. The chance of someone reading this is kinda low 
 
 Thank you for visiting my GitHub page.
 
-![Loading Icon](https://quanmcpc.site/website/image/logo/loading.gif)
+<!-- ![Loading Icon](https://quanmcpc.site/website/image/logo/loading.gif) -->
+
+<img alt="Loading Icon" src="https://quanmcpc.site/website/image/logo/loading.gif" width="64" height="64"/>
