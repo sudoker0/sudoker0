@@ -4,7 +4,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=QuanMCPC&theme=dark&show_icons=true&icon_color=ff0000" alt="Github Status" />
     <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuanMCPC&theme=dark&langs_count=10&layout=compact" alt="Most Used Languages" /> -->
 </center>
-<br>
 
 > Credit: Data provided from [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
@@ -22,4 +21,4 @@ Well, that's all I have to say. The chance of someone reading this is kinda low 
 
 Thank you for visiting my GitHub page.
 
-![Loading Icon](https://quanmcpc.github.io/website/image/loading.gif)
+![Loading Icon](https://quanmcpc.site/website/image/logo/loading.gif)
