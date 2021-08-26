@@ -13,7 +13,7 @@ Welcome to my GitHub page, where I host my own website, my JavaScript project an
 
 > Shameless plug: If you want to check out more project and stuff that I do, visit: ~~https://quanmcpc.github.io~~ [https://quanmcpc.site](https://quanmcpc.site). I swear it's the best website in the world! (Note: The new domain is privately funded and not by me funded)
 
-My average typing speed is around 88 WPS and the highest I was able to achived is 98 WPS as of August 7th 2021
+My average typing speed is around 84 WPS and the highest I was able to achived is 102 WPS as of August 7th 2021
 
 > Proof: [https://10fastfingers.com/user/2603974/](https://10fastfingers.com/user/2603974/)
 
