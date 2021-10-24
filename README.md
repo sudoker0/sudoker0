@@ -27,6 +27,8 @@ Self rating on programming languages that I can code:
 [![C# - OK](https://img.shields.io/badge/C%23-OK-15bfba?style=for-the-badge&logo=c+sharp&logoColor=239120)](https://)
 [![Java - Medium](https://img.shields.io/badge/Java-Medium-c5d424?style=for-the-badge&logo=java&logoColor=208eb0)](https://)
 
+<!-- https://michaelcurrin.github.io/ -->
+
 Well, that's all I have to say. The chance of someone reading this is kinda low so I can't really put much effort into this. If you are reading this then: Good for you? I guess?
 
 Thank you for visiting my GitHub page.
