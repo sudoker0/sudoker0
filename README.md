@@ -17,6 +17,16 @@ My average typing speed is around 84 WPS and the highest I was able to achived i
 
 > Proof: [https://10fastfingers.com/user/2603974/](https://10fastfingers.com/user/2603974/)
 
+Self rating on programming languages that I can code:
+
+[![HTML - Good](https://img.shields.io/badge/HTML-Good-darklime?style=for-the-badge&logo=html5&logoColor=15bf42)](https://)
+[![CSS - OK](https://img.shields.io/badge/CSS-OK-15bfba?style=for-the-badge&logo=css3&logoColor=1572B6)](https://)
+[![JS - Good](https://img.shields.io/badge/JS-Good-darklime?style=for-the-badge&logo=html5&logoColor=15bf42)](https://)
+
+[![Python - Good](https://img.shields.io/badge/Python-Good-15bf42?style=for-the-badge&logo=python&logoColor=3776AB)](https://)
+[![C# - OK](https://img.shields.io/badge/C%23-OK-15bfba?style=for-the-badge&logo=c+sharp&logoColor=239120)](https://)
+[![Java - Medium](https://img.shields.io/badge/Java-Medium-c5d424?style=for-the-badge&logo=java&logoColor=208eb0)](https://)
+
 Well, that's all I have to say. The chance of someone reading this is kinda low so I can't really put much effort into this. If you are reading this then: Good for you? I guess?
 
 Thank you for visiting my GitHub page.
