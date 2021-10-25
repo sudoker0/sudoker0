@@ -5,6 +5,8 @@
     <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuanMCPC&theme=dark&langs_count=10&layout=compact" alt="Most Used Languages" /> -->
 </center>
 
+---
+
 > Credit: Data provided from [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 Hello there, I'm a student, a small web developer and a gamer and Ha Long, VietNam is where I live.
@@ -19,13 +21,13 @@ My average typing speed is around 84 WPS and the highest I was able to achived i
 
 Self rating on programming languages that I can code:
 
-[![HTML - Good](https://img.shields.io/badge/HTML-Good-darklime?style=for-the-badge&logo=html5&logoColor=15bf42)](https://)
-[![CSS - OK](https://img.shields.io/badge/CSS-OK-15bfba?style=for-the-badge&logo=css3&logoColor=1572B6)](https://)
-[![JS - Good](https://img.shields.io/badge/JS-Good-darklime?style=for-the-badge&logo=html5&logoColor=15bf42)](https://)
-
-[![Python - Good](https://img.shields.io/badge/Python-Good-15bf42?style=for-the-badge&logo=python&logoColor=3776AB)](https://)
-[![C# - OK](https://img.shields.io/badge/C%23-OK-15bfba?style=for-the-badge&logo=c+sharp&logoColor=239120)](https://)
-[![Java - Medium](https://img.shields.io/badge/Java-Medium-c5d424?style=for-the-badge&logo=java&logoColor=208eb0)](https://)
+| Rating           | Languages        |
+|------------------|------------------|
+| Excellent        |![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/JS-EFD81D?style=for-the-badge&logo=javascript&logoColor=000000)|
+| Good             |![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c+sharp&logoColor=white)|
+| Ok/Medium        |![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)|
+| Poor             |![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)|
+| Uhh what's this  |![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge)|
 
 <!-- https://michaelcurrin.github.io/ -->
 
