@@ -19,7 +19,7 @@ My average typing speed is around 84 WPS and the highest I was able to achived i
 
 > Proof: [https://10fastfingers.com/user/2603974/](https://10fastfingers.com/user/2603974/)
 
-Self rating on programming languages that I can code:
+Self rating on programming languages that I knew:
 
 | Rating           | Languages        |
 |------------------|------------------|
