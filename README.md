@@ -1,6 +1,6 @@
 # Hey there! Welcome to my GitHub profile!
 
-<a href="https://mastodon.world/@quanmcpc">.</a>
+<a rel="me nofollow" href="https://mastodon.world/@quanmcpc">.</a>
 
 I have a lot of project hosted on my main website and my GitHub account, so be sure to check them out
 
