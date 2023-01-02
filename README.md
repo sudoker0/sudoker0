@@ -4,8 +4,6 @@ I have a lot of project hosted on my main website and my GitHub account, so be s
 
 If you like what I do, consider donating cryptocurrency to me (i'm currently a student, so a bit of money can really help me)
 
-<a rel="me" href="https://mastodon.world/@quanmcpc">.</a>
-
 Monero: `49mnbNT8H2iZBNKhoVvvuxe1hVDMtB3bq7AHjcJBXq6BQAEiVK56anEcT1nhfRscPUM6mWC7pjCR5XZLFkHJGZ5PTsfWkWq`
 
 <img src="https://github-readme-stats.vercel.app/api?username=QuanMCPC&theme=dark&show_icons=true&icon_color=ff0000" alt="Github status" style="max-width: 100%; height: auto">
