@@ -1,5 +1,7 @@
 # Hey there! Welcome to my GitHub profile!
 
+<link rel="me" href="https://mastodon.world/@quanmcpc">
+
 I have a lot of project hosted on my main website and my GitHub account, so be sure to check them out
 
 If you like what I do, consider donating cryptocurrency to me (i'm currently a student, so a bit of money can really help me)
